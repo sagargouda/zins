@@ -1,4 +1,4 @@
-6116
+6118
 79C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\utils\src\isDirectoryInside.js133502206541880144 0
 71C:\Users\SAGAR\Desktop\zins\node_modules\detect-libc\bin\detect-libc.js133502206493628115 0
 81C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\utils\src\dependency-location.js133502206540648774 0
@@ -30,7 +30,7 @@
 57C:\Users\SAGAR\Desktop\zins\node_modules\type-fest\source133502206506307193 1
 82C:\Users\SAGAR\Desktop\zins\node_modules\react-dom\umd\react-dom.production.min.js133502213065825071 0
 96C:\Users\SAGAR\Desktop\zins\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133502206498330432 0
-38C:\Users\SAGAR\Desktop\zins\components133502884826526819 1
+38C:\Users\SAGAR\Desktop\zins\components133502900801147101 1
 77C:\Users\SAGAR\Desktop\zins\node_modules\csso\node_modules\css-tree\lib\utils133502206522305755 1
 125C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133502206498975424 0
 54C:\Users\SAGAR\Desktop\zins\node_modules\css-tree\data133502206523632717 1
@@ -44,7 +44,7 @@
 59C:\Users\SAGAR\Desktop\zins\node_modules\micromatch\LICENSE133502206489968937 0
 64C:\Users\SAGAR\Desktop\zins\node_modules\css-select\lib\index.js133502206498300443 0
 59C:\Users\SAGAR\Desktop\zins\node_modules\csso\cjs\index.cjs133502206501105190 0
-34C:\Users\SAGAR\Desktop\zins\App.js133502885472909039 0
+34C:\Users\SAGAR\Desktop\zins\App.js133502932466569733 0
 69C:\Users\SAGAR\Desktop\zins\node_modules\svgo\plugins\cleanupAttrs.js133502206507120334 0
 69C:\Users\SAGAR\Desktop\zins\node_modules\csso\lib\restructure\prepare133502206513045104 1
 71C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\profiler\src\Tracer.js133502206505524397 0
@@ -52,9 +52,9 @@
 84C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133502206537073989 0
 61C:\Users\SAGAR\Desktop\zins\node_modules\json5\lib\require.js133502206495493604 0
 38C:\Users\SAGAR\Desktop\zins\.gitignore133502281037674441 0
-32C:\Users\SAGAR\Desktop\zins\dist133502886067522045 1
+32C:\Users\SAGAR\Desktop\zins\dist133502940917158258 1
 61C:\Users\SAGAR\Desktop\zins\node_modules\htmlnano\index.d.cts133502206504066033 0
-37C:\Users\SAGAR\Desktop\zins\index.css133502269575815702 0
+37C:\Users\SAGAR\Desktop\zins\index.css133502941825195742 0
 57C:\Users\SAGAR\Desktop\zins\node_modules\srcset\readme.md133502206492640411 0
 80C:\Users\SAGAR\Desktop\zins\node_modules\type-fest\source\async-return-type.d.ts133502206493070358 0
 87C:\Users\SAGAR\Desktop\zins\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133502206512104748 0
@@ -1214,7 +1214,7 @@
 92C:\Users\SAGAR\Desktop\zins\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1133502206501105190 0
 89C:\Users\SAGAR\Desktop\zins\node_modules\@swc\helpers\esm\_initializer_define_property.js133502206517307604 0
 74C:\Users\SAGAR\Desktop\zins\node_modules\svgo\plugins\removeXMLProcInst.js133502206513275141 0
-54C:\Users\SAGAR\Desktop\zins\dist\index.7826abd7.js.map133502886067502135 0
+54C:\Users\SAGAR\Desktop\zins\dist\index.7826abd7.js.map133502940308462064 0
 109C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\convertor\create.js133502206499983921 0
 112C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Comment.js133502206499220580 0
 86C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133502206514812600 0
@@ -2730,7 +2730,7 @@
 98C:\Users\SAGAR\Desktop\zins\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133502206511154950 0
 70C:\Users\SAGAR\Desktop\zins\node_modules\css-tree\cjs\lexer\search.cjs133502206514912646 0
 103C:\Users\SAGAR\Desktop\zins\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133502206509246000 0
-51C:\Users\SAGAR\Desktop\zins\dist\index.9e4c6fd2.css133502885485404676 0
+51C:\Users\SAGAR\Desktop\zins\dist\index.9e4c6fd2.css133502940917057980 0
 97C:\Users\SAGAR\Desktop\zins\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md133502206490729875 0
 68C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\reporter-dev-server133502206532329596 1
 96C:\Users\SAGAR\Desktop\zins\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md133502206509955912 0
@@ -3053,6 +3053,7 @@
 86C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow133502206494316843 0
 101C:\Users\SAGAR\Desktop\zins\node_modules\csso\node_modules\css-tree\lib\syntax\node\index-generate.js133502206519402814 0
 97C:\Users\SAGAR\Desktop\zins\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaQuery.js133502206520473716 0
+49C:\Users\SAGAR\Desktop\zins\components\Contact.js133502895447491511 0
 64C:\Users\SAGAR\Desktop\zins\node_modules\csso\lib\replace\Url.js133502206513305107 0
 101C:\Users\SAGAR\Desktop\zins\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133502206520473716 0
 73C:\Users\SAGAR\Desktop\zins\node_modules\css-select\lib\esm\sort.d.ts.map133502206509654937 0
@@ -3764,7 +3765,7 @@
 80C:\Users\SAGAR\Desktop\zins\node_modules\@swc\helpers\esm\_is_native_function.js133502206517575349 0
 98C:\Users\SAGAR\Desktop\zins\node_modules\css-select\node_modules\domutils\lib\esm\stringify.js.map133502206507251308 0
 96C:\Users\SAGAR\Desktop\zins\node_modules\css-select\node_modules\domutils\lib\esm\traversal.d.ts133502206510569581 0
-48C:\Users\SAGAR\Desktop\zins\components\Header.js133502267185884450 0
+48C:\Users\SAGAR\Desktop\zins\components\Header.js133502939911614309 0
 100C:\Users\SAGAR\Desktop\zins\node_modules\css-select\node_modules\domutils\lib\esm\traversal.d.ts.map133502206507624639 0
 104C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\index.js133502206510905434 0
 98C:\Users\SAGAR\Desktop\zins\node_modules\css-select\node_modules\domutils\lib\esm\traversal.js.map133502206508078289 0
@@ -4151,7 +4152,7 @@
 72C:\Users\SAGAR\Desktop\zins\node_modules\caniuse-lite\data\regions\TD.js133502206535833407 0
 72C:\Users\SAGAR\Desktop\zins\node_modules\caniuse-lite\data\regions\TG.js133502206536145507 0
 72C:\Users\SAGAR\Desktop\zins\node_modules\caniuse-lite\data\regions\TH.js133502206536145507 0
-50C:\Users\SAGAR\Desktop\zins\dist\index.7826abd7.js133502886067382079 0
+50C:\Users\SAGAR\Desktop\zins\dist\index.7826abd7.js133502940308062122 0
 72C:\Users\SAGAR\Desktop\zins\node_modules\caniuse-lite\data\regions\TK.js133502206536145507 0
 63C:\Users\SAGAR\Desktop\zins\node_modules\@swc\counter\README.md133502206492147013 0
 72C:\Users\SAGAR\Desktop\zins\node_modules\caniuse-lite\data\regions\TL.js133502206536245548 0
@@ -5727,7 +5728,7 @@
 115C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\value.js133502206516695085 0
 116C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\index.js133502206511454543 0
 115C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\lang.js133502206511904018 0
-47C:\Users\SAGAR\Desktop\zins\components\About.js133502885213582992 0
+47C:\Users\SAGAR\Desktop\zins\components\About.js133502893598109937 0
 118C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\matches.js133502206512651433 0
 120C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133502206513305107 0
 127C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133502206513475914 0
@@ -5915,7 +5916,7 @@
 108C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json133502206549784572 0
 108C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133502206549774217 0
 109C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133502206549754232 0
-55C:\Users\SAGAR\Desktop\zins\dist\index.9e4c6fd2.css.map133502885485490129 0
+55C:\Users\SAGAR\Desktop\zins\dist\index.9e4c6fd2.css.map133502940917147956 0
 91C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\core\test\fixtures\plugins\local-plugin.js133502206547664177 0
 127C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133502206547421481 0
 128C:\Users\SAGAR\Desktop\zins\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133502206547391495 0
@@ -6113,5 +6114,6 @@
 72C:\Users\SAGAR\Desktop\zins\node_modules\.bin\update-browserslist-db.ps1133502206634927401 0
 50C:\Users\SAGAR\Desktop\zins\dist\index.3d214d75.js133502215569168421 0
 54C:\Users\SAGAR\Desktop\zins\dist\index.3d214d75.js.map133502215569228471 0
-43C:\Users\SAGAR\Desktop\zins\dist\index.html133502885489305131 0
+43C:\Users\SAGAR\Desktop\zins\dist\index.html133502932488810564 0
 46C:\Users\SAGAR\Desktop\zins\components\Body.js133502886061729141 0
+47C:\Users\SAGAR\Desktop\zins\components\Error.js133502910898408164 0

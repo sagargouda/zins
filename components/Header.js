@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
   const [button, setButton] = useState("Login");
@@ -24,9 +25,15 @@ function Header() {
       {/* nav contents */}
       <div className="header__nav-contents">
         <ul className="header__nav-ul">
-          <li>Home</li>
-          <li>About</li>
-          <li>Contact</li>
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/about">About</Link>
+          </li>
+          <li>
+            <Link to="/contact">Contact</Link>
+          </li>
           <button className="login" onClick={authen}>
             {button}
           </button>
