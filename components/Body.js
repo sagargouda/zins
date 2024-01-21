@@ -1,5 +1,5 @@
 import Restcard from "./Rescard";
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 import Shimmer from "./Shimmer";
 
 function Body() {
@@ -27,7 +27,7 @@ function Body() {
     );
   };
   // conditional rendering
-  return listOfRestaurants.length === 0 ? (
+  return listOfRestaurants?.length === 0 ? (
     <Shimmer />
   ) : (
     <>
